@@ -1,5 +1,6 @@
 # Bus
-This is a website which books your bus tickets online, it was a client project, my work was to redesign this website and to give it a modern look without changing the backend code of the website, my work is shown below in the form of pictures. Some of the css codes which i used is given above feel free to check and use.
+This is a website which books your bus tickets online, it was a client project, my work was to redesign this website and to give it a modern look without changing the backend code of the website, my work is shown below in the form of pictures. Some of the css codes which i used is given above feel free to check and use. My job was to redesign this website any information given inside is not mine nor i've added any information.
+
 
 ## Images
 ![Screenshot 2020-10-21 153337](https://user-images.githubusercontent.com/70836668/110099295-2523d000-7dc7-11eb-978c-8b665a082a82.png)
